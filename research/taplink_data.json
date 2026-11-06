@@ -1,0 +1,376 @@
+{
+  "page_id": 18221714,
+  "fields": [
+    {
+      "section": null,
+      "items": [
+        {
+          "options": {
+            "type": "hero",
+            "design": {
+              "on": 1,
+              "title": {
+                "font": 7
+              }
+            },
+            "p": "/p/5/f/1/4/70568192.jpg?0",
+            "hero_type": "bt"
+          },
+          "block_type_id": 8,
+          "block_type_name": "avatar",
+          "block_id": "6a2551a8d3044e459c0c8a5b30f5f028",
+          "addon_target": null
+        },
+        {
+          "block_id": 81735569,
+          "options": {
+            "title": "ЗАПИСАТЬСЯ НА КОНСУЛЬТАЦИЮ ",
+            "value": "https://t.me/Judildan"
+          },
+          "block_type_id": 2,
+          "block_type_name": "link",
+          "addon_target": [
+            "form",
+            "link"
+          ],
+          "stat": "18b36a"
+        }
+      ]
+    },
+    {
+      "section": {
+        "bg": {
+          "color": "#fff4e6"
+        },
+        "blocks": [
+          "bc699350c230"
+        ],
+        "id": null,
+        "section_id": 18261122
+      },
+      "items": [
+        {
+          "options": {
+            "font": 22,
+            "text": "Помогаю разобраться в себе, снизить тревогу и выстроить жизнь, в которой есть опора на себя",
+            "color": "#000000",
+            "text_size": "lg",
+            "text_align": "center"
+          },
+          "block_type_id": 1,
+          "block_type_name": "text",
+          "block_id": "bc699350c230",
+          "addon_target": null
+        }
+      ]
+    },
+    {
+      "section": null,
+      "items": [
+        {
+          "options": {
+            "text": "С ЧЕМ Я РАБОТАЮ",
+            "type": 2
+          },
+          "block_type_id": 5,
+          "block_type_name": "break",
+          "block_id": "b8ed37b7339d",
+          "addon_target": null
+        },
+        {
+          "options": {
+            "text": "— Постоянная тревога и переутомление\n— Сложности в отношениях\n— Низкая самооценка, неуверенность\n— Чувство, что «живу не свою жизнь», поиск себя\n— Эмоциональные качели, выгорание и прокрастинация"
+          },
+          "block_type_id": 1,
+          "block_type_name": "text",
+          "block_id": "b554d7429f21",
+          "addon_target": null
+        },
+        {
+          "block_id": 81735445,
+          "options": {
+            "layout": {
+              "items": [
+                {
+                  "styles": {
+                    "pos": "l c",
+                    "radius": 100
+                  },
+                  "data": {
+                    "p": {
+                      "filename": "5/1/2/0/70568262.jpg?3",
+                      "width": 720,
+                      "height": 288
+                    },
+                    "color": "#3d444a"
+                  },
+                  "c": "1,1,10,4",
+                  "id": "4760838",
+                  "type": "image",
+                  "action": null
+                },
+                {
+                  "data": {
+                    "text": "<br>",
+                    "font": {
+                      "textsize": 38,
+                      "textalign": "left",
+                      "lineheight": 1,
+                      "font": 14,
+                      "color": "#ffffff"
+                    }
+                  },
+                  "c": "2,1,5,3",
+                  "id": "2d68999",
+                  "type": "text",
+                  "action": null
+                },
+                {
+                  "data": {
+                    "text": "<br><br>‌*если здесь нет нужного варианта, можешь написать о нем.<br>‌&nbsp;Я сообщу, смогу ли тебе помочь",
+                    "font": {
+                      "textsize": 14,
+                      "font": 22,
+                      "color": "#f1f3f5"
+                    }
+                  },
+                  "c": "1,1,10,3",
+                  "id": "580cfe1",
+                  "type": "text",
+                  "action": null
+                }
+              ],
+              "cols": 10,
+              "rows": 4
+            },
+            "is_marginless": true
+          },
+          "block_type_id": 51,
+          "block_type_name": "zero",
+          "addon_target": [
+            "link"
+          ],
+          "stat": "f3ef37"
+        },
+        {
+          "options": {
+            "text": "ЧТО ТЫ ПОЛУЧИШЬ",
+            "type": 2
+          },
+          "block_type_id": 5,
+          "block_type_name": "break",
+          "block_id": "bdc69f1be1dc",
+          "addon_target": null
+        },
+        {
+          "options": {
+            "text": "— Понимание, что с тобой происходит\n— Конкретные инструменты, как справляться\n— Поддержку без осуждения\n— Внутреннюю устойчивость вместо хаоса"
+          },
+          "block_type_id": 1,
+          "block_type_name": "text",
+          "block_id": "beab9481a730",
+          "addon_target": null
+        },
+        {
+          "options": {
+            "text": "ФОРМАТ РАБОТЫ",
+            "type": 2
+          },
+          "block_type_id": 5,
+          "block_type_name": "break",
+          "block_id": "bf39ecdfe326",
+          "addon_target": null
+        },
+        {
+          "options": {
+            "font": 22,
+            "text": "Консультации проходят онлайн через защищённую платформу (Яндекс Телемост)\n‌в безопасной и поддерживающей атмосфере",
+            "text_align": "center"
+          },
+          "block_type_id": 1,
+          "block_type_name": "text",
+          "block_id": "b8bcc987a5cf",
+          "addon_target": null
+        },
+        {
+          "options": {
+            "fields": [
+              {
+                "text": "Одна сессия длится 55 минут. Оптимальная частота встреч определяется индивидуально, но чаще всего один раз в неделю.",
+                "thumb": {
+                  "i": null,
+                  "p": null,
+                  "t": "n"
+                },
+                "title": "                                         Длительность"
+              },
+              {
+                "text": "Перенос сессии возможен не позднее, чем за 24 часа до начала. При более поздней отмене или неявке сессия считается состоявшейся и подлежит оплате в полном объёме.",
+                "thumb": {
+                  "i": null,
+                  "p": null,
+                  "t": "n"
+                },
+                "title": "                                       Перенос и отмена"
+              },
+              {
+                "text": "Вся информация, озвученная на встречах, является конфиденциальной. Исключения составляют случаи прямой угрозы жизни и здоровью клиента или третьих лиц",
+                "thumb": {
+                  "i": null,
+                  "p": null,
+                  "t": "n"
+                },
+                "title": "                                    Конфиденциальность"
+              }
+            ],
+            "styles": {
+              "cols": 3,
+              "size": 32,
+              "align": "c",
+              "shape": "circle"
+            }
+          },
+          "block_type_id": 20,
+          "block_type_name": "media",
+          "block_id": "bd13db6eb9a1",
+          "addon_target": null
+        },
+        {
+          "options": [],
+          "block_type_id": 5,
+          "block_type_name": "break",
+          "block_id": "b5b58fa1410c",
+          "addon_target": null
+        },
+        {
+          "options": {
+            "design": {
+              "on": 1,
+              "price": {
+                "color": "#000000"
+              }
+            },
+            "fields": [
+              {
+                "price": 2500,
+                "title": "СТОИМОСТЬ КОНСУЛЬТАЦИИ"
+              }
+            ]
+          },
+          "block_type_id": 21,
+          "block_type_name": "pricing",
+          "block_id": "b51b6101d417",
+          "addon_target": null
+        },
+        {
+          "options": [],
+          "block_type_id": 5,
+          "block_type_name": "break",
+          "block_id": "b34541c9b782",
+          "addon_target": null
+        },
+        {
+          "options": {
+            "text": "НЕМНОГО ОБО МНЕ",
+            "type": 2
+          },
+          "block_type_id": 5,
+          "block_type_name": "break",
+          "block_id": "bdb5c40816e6",
+          "addon_target": null
+        },
+        {
+          "options": {
+            "text": "В своей практической работе я использую различные техники, которые подбираю индивидуально для эффективного решения запроса",
+            "text_size": "sm",
+            "text_align": "center"
+          },
+          "block_type_id": 1,
+          "block_type_name": "text",
+          "block_id": "b0288f481f08",
+          "addon_target": null
+        },
+        {
+          "options": {
+            "text": "ОБРАЗОВАНИЕ",
+            "type": 2
+          },
+          "block_type_id": 5,
+          "block_type_name": "break",
+          "block_id": "b50cdbb42349",
+          "addon_target": null
+        },
+        {
+          "options": {
+            "text": "2025&nbsp;—&nbsp;Психолог-консультант с дополнительной специализацией в области когнитивно-поведенческой терапии (1540 часов) — АНО ДПО «НАДПО»\n‌\n2026&nbsp; — АСТ-терапия -&nbsp;Терапия принятия и ответственности — АНО ДПО «НАДПО»\n‌\n‌с 30 сентября 2025 года я являюсь членом ассоциации&nbsp;когнитивно-поведенческой психотерапии (АКПП)"
+          },
+          "block_type_id": 1,
+          "block_type_name": "text",
+          "block_id": "bfcf5b58f7cd",
+          "addon_target": null
+        },
+        {
+          "options": {
+            "text": "ГДЕ МЕНЯ НАЙТИ",
+            "type": 2
+          },
+          "block_type_id": 5,
+          "block_type_name": "break",
+          "block_id": "bce6e432ef90",
+          "addon_target": null
+        },
+        {
+          "block_id": 81735588,
+          "options": {
+            "socials_style": {
+              "design": "theme"
+            },
+            "items": [
+              {
+                "n": "ig",
+                "t": "@judil.psy",
+                "v": "judil.psy",
+                "link": {
+                  "b": "https://instagram.com/judil.psy/",
+                  "a": {
+                    "ios": "instagram://user?username=judil.psy",
+                    "android": "intent://www.instagram.com/judil.psy/#Intent;scheme=instagram;end"
+                  }
+                },
+                "i": "ig"
+              },
+              {
+                "n": "tg",
+                "t": "@TERAPIA_S_TREPETOM",
+                "v": "terapia_s_trepetom",
+                "link": {
+                  "b": "https://t.me/terapia_s_trepetom",
+                  "a": {
+                    "default": "tg://resolve?domain=terapia_s_trepetom"
+                  }
+                },
+                "i": "tg"
+              }
+            ]
+          },
+          "block_type_id": 6,
+          "block_type_name": "socialnetworks",
+          "addon_target": [
+            "link"
+          ],
+          "hash": "765a7a",
+          "slot": {
+            "ig": 6,
+            "tg": 54
+          },
+          "stat": {
+            "ig": "1a3a0d.6",
+            "tg": "80c1bf.54"
+          }
+        }
+      ]
+    }
+  ],
+  "options": [],
+  "stat": "p.1160a92.6018b0"
+}

@@ -1,0 +1,817 @@
+{
+  "total": 20,
+  "directory": "D:/Projects/judil-psy/data/photos",
+  "public_directory": "/photos/",
+  "categories": {
+    "hero_portrait": [
+      {
+        "id": "hero_portrait_main",
+        "filename": "post_324_3.jpg",
+        "relative_path": "photos/post_324_3.jpg",
+        "relativePath": "photos/post_324_3.jpg",
+        "url": "/photos/post_324_3.jpg",
+        "post_id": 324,
+        "postId": 324,
+        "post_url": "https://t.me/terapia_s_trepetom/324",
+        "postUrl": "https://t.me/terapia_s_trepetom/324",
+        "orientation": "portrait",
+        "dimensions": {
+          "width": 599,
+          "height": 800
+        },
+        "size_kb": 141.8,
+        "role": "hero_portrait",
+        "caption": "Юлия Колесникова — психолог-консультант в КПТ и ACT",
+        "description": "Естественный солнечный портрет психолога с искренней улыбкой в очках на фоне зеленого газона."
+      },
+      {
+        "id": "hero_portrait_avatar",
+        "filename": "channel_avatar.jpg",
+        "relative_path": "photos/channel_avatar.jpg",
+        "relativePath": "photos/channel_avatar.jpg",
+        "url": "/photos/channel_avatar.jpg",
+        "post_id": null,
+        "postId": 0,
+        "post_url": "https://t.me/terapia_s_trepetom",
+        "postUrl": "https://t.me/terapia_s_trepetom",
+        "orientation": "square",
+        "dimensions": {
+          "width": 320,
+          "height": 320
+        },
+        "size_kb": 18.1,
+        "role": "hero_portrait",
+        "caption": "Официальный студийный аватар канала «Терапия с трепетом»",
+        "description": "Лаконичный портрет на светлом нейтральном фоне в светлом свитере."
+      }
+    ],
+    "about_portrait": [
+      {
+        "id": "about_portrait_terrace",
+        "filename": "post_306_1.jpg",
+        "relative_path": "photos/post_306_1.jpg",
+        "relativePath": "photos/post_306_1.jpg",
+        "url": "/photos/post_306_1.jpg",
+        "post_id": 306,
+        "postId": 306,
+        "post_url": "https://t.me/terapia_s_trepetom/306",
+        "postUrl": "https://t.me/terapia_s_trepetom/306",
+        "orientation": "portrait",
+        "dimensions": {
+          "width": 600,
+          "height": 800
+        },
+        "size_kb": 145.6,
+        "role": "about_portrait",
+        "caption": "Юлия на открытой террасе: бережная пауза и контакт с собой",
+        "description": "Юлия в белом платье/рубашке отдыхает на террасе среди цветущих олеандров."
+      },
+      {
+        "id": "about_portrait_train",
+        "filename": "post_274_1.jpg",
+        "relative_path": "photos/post_274_1.jpg",
+        "relativePath": "photos/post_274_1.jpg",
+        "url": "/photos/post_274_1.jpg",
+        "post_id": 274,
+        "postId": 274,
+        "post_url": "https://t.me/terapia_s_trepetom/274",
+        "postUrl": "https://t.me/terapia_s_trepetom/274",
+        "orientation": "landscape",
+        "dimensions": {
+          "width": 800,
+          "height": 600
+        },
+        "size_kb": 104.7,
+        "role": "about_portrait",
+        "caption": "Юлия в дороге: размышления о переменах и опоре на себя",
+        "description": "Портрет крупным планом в вагоне поезда, прямой спокойный взгляд в камеру."
+      }
+    ],
+    "notes_photos": [
+      {
+        "id": "note_photo_diary",
+        "filename": "post_174_1.jpg",
+        "relative_path": "photos/post_174_1.jpg",
+        "relativePath": "photos/post_174_1.jpg",
+        "url": "/photos/post_174_1.jpg",
+        "post_id": 174,
+        "postId": 174,
+        "post_url": "https://t.me/terapia_s_trepetom/174",
+        "postUrl": "https://t.me/terapia_s_trepetom/174",
+        "orientation": "landscape",
+        "dimensions": {
+          "width": 800,
+          "height": 695
+        },
+        "size_kb": 107.9,
+        "role": "notes_photos",
+        "caption": "Письменные практики: блокнот для саморефлексии, ручка и горящая свеча",
+        "description": "Уютный натюрморт с дневником и ароматической свечой Sweet & Frosted Pine."
+      },
+      {
+        "id": "note_photo_craft",
+        "filename": "post_368_3.jpg",
+        "relative_path": "photos/post_368_3.jpg",
+        "relativePath": "photos/post_368_3.jpg",
+        "url": "/photos/post_368_3.jpg",
+        "post_id": 368,
+        "postId": 368,
+        "post_url": "https://t.me/terapia_s_trepetom/368",
+        "postUrl": "https://t.me/terapia_s_trepetom/368",
+        "orientation": "portrait",
+        "dimensions": {
+          "width": 600,
+          "height": 800
+        },
+        "size_kb": 104.5,
+        "role": "notes_photos",
+        "caption": "Творческий мастер-класс: создание гипсовых форм своими руками",
+        "description": "Рабочий стол мастерской: весы, пигменты, гипсовые формы и процесс работы руками."
+      },
+      {
+        "id": "note_photo_cafe",
+        "filename": "post_360_2.jpg",
+        "relative_path": "photos/post_360_2.jpg",
+        "relativePath": "photos/post_360_2.jpg",
+        "url": "/photos/post_360_2.jpg",
+        "post_id": 360,
+        "postId": 360,
+        "post_url": "https://t.me/terapia_s_trepetom/360",
+        "postUrl": "https://t.me/terapia_s_trepetom/360",
+        "orientation": "portrait",
+        "dimensions": {
+          "width": 601,
+          "height": 800
+        },
+        "size_kb": 93.6,
+        "role": "notes_photos",
+        "caption": "Вечер пятницы в кофейне «Аленка» с тёплым светом hanging lamps",
+        "description": "Интерьер кофейни с зеркальными лампами и спокойной атмосферой замедления."
+      },
+      {
+        "id": "note_photo_coffee_cup",
+        "filename": "post_297_3.jpg",
+        "relative_path": "photos/post_297_3.jpg",
+        "relativePath": "photos/post_297_3.jpg",
+        "url": "/photos/post_297_3.jpg",
+        "post_id": 297,
+        "postId": 297,
+        "post_url": "https://t.me/terapia_s_trepetom/297",
+        "postUrl": "https://t.me/terapia_s_trepetom/297",
+        "orientation": "portrait",
+        "dimensions": {
+          "width": 600,
+          "height": 800
+        },
+        "size_kb": 99.0,
+        "role": "notes_photos",
+        "caption": "Стаканчик кофе с надписью: «У тебя всё будет хорошо!»",
+        "description": "Рука держит стаканчик с кофе и фото ребенка на солнечной улице с деревьями."
+      },
+      {
+        "id": "note_photo_study",
+        "filename": "post_348_5.jpg",
+        "relative_path": "photos/post_348_5.jpg",
+        "relativePath": "photos/post_348_5.jpg",
+        "url": "/photos/post_348_5.jpg",
+        "post_id": 348,
+        "postId": 348,
+        "post_url": "https://t.me/terapia_s_trepetom/348",
+        "postUrl": "https://t.me/terapia_s_trepetom/348",
+        "orientation": "portrait",
+        "dimensions": {
+          "width": 600,
+          "height": 800
+        },
+        "size_kb": 134.8,
+        "role": "notes_photos",
+        "caption": "Рабочий процесс: MacBook, исследования и написание книги",
+        "description": "Учебный стол с конспектами, ноутбуком, кружкой и дневниковыми записями."
+      },
+      {
+        "id": "note_photo_piano",
+        "filename": "post_235_1.jpg",
+        "relative_path": "photos/post_235_1.jpg",
+        "relativePath": "photos/post_235_1.jpg",
+        "url": "/photos/post_235_1.jpg",
+        "post_id": 235,
+        "postId": 235,
+        "post_url": "https://t.me/terapia_s_trepetom/235",
+        "postUrl": "https://t.me/terapia_s_trepetom/235",
+        "orientation": "portrait",
+        "dimensions": {
+          "width": 600,
+          "height": 800
+        },
+        "size_kb": 118.8,
+        "role": "notes_photos",
+        "caption": "Уголок замедления: синтезатор Casiotone, кофе и белые цветы",
+        "description": "Клавишный инструмент, розовая кофемашина и хризантемы у залитого солнцем окна."
+      },
+      {
+        "id": "note_photo_train_book",
+        "filename": "post_274_4.jpg",
+        "relative_path": "photos/post_274_4.jpg",
+        "relativePath": "photos/post_274_4.jpg",
+        "url": "/photos/post_274_4.jpg",
+        "post_id": 274,
+        "postId": 274,
+        "post_url": "https://t.me/terapia_s_trepetom/274",
+        "postUrl": "https://t.me/terapia_s_trepetom/274",
+        "orientation": "portrait",
+        "dimensions": {
+          "width": 600,
+          "height": 800
+        },
+        "size_kb": 88.1,
+        "role": "notes_photos",
+        "caption": "Чтение книги у окна поезда по дороге в родной город",
+        "description": "Раскрытая книга в руках у окна поезда с видом на железную дорогу."
+      },
+      {
+        "id": "note_photo_wheel",
+        "filename": "post_280_1.jpg",
+        "relative_path": "photos/post_280_1.jpg",
+        "relativePath": "photos/post_280_1.jpg",
+        "url": "/photos/post_280_1.jpg",
+        "post_id": 280,
+        "postId": 280,
+        "post_url": "https://t.me/terapia_s_trepetom/280",
+        "postUrl": "https://t.me/terapia_s_trepetom/280",
+        "orientation": "portrait",
+        "dimensions": {
+          "width": 600,
+          "height": 800
+        },
+        "size_kb": 118.5,
+        "role": "notes_photos",
+        "caption": "Колесо обозрения: радость для внутреннего ребёнка",
+        "description": "Белое колесо обозрения в парке отдыха на фоне высокого летнего неба."
+      }
+    ],
+    "decorative_photos": [
+      {
+        "id": "deco_photo_flowers_wall",
+        "filename": "post_261_1.jpg",
+        "relative_path": "photos/post_261_1.jpg",
+        "relativePath": "photos/post_261_1.jpg",
+        "url": "/photos/post_261_1.jpg",
+        "post_id": 261,
+        "postId": 261,
+        "post_url": "https://t.me/terapia_s_trepetom/261",
+        "postUrl": "https://t.me/terapia_s_trepetom/261",
+        "orientation": "portrait",
+        "dimensions": {
+          "width": 600,
+          "height": 800
+        },
+        "size_kb": 150.7,
+        "role": "decorative_photos",
+        "caption": "Нежные розовые цветы с записками «i miss you» и «i love you»",
+        "description": "Цветы закреплены на белой фактурной стене малярным скотчем."
+      },
+      {
+        "id": "deco_photo_spring_bouquet",
+        "filename": "post_230_1.jpg",
+        "relative_path": "photos/post_230_1.jpg",
+        "relativePath": "photos/post_230_1.jpg",
+        "url": "/photos/post_230_1.jpg",
+        "post_id": 230,
+        "postId": 230,
+        "post_url": "https://t.me/terapia_s_trepetom/230",
+        "postUrl": "https://t.me/terapia_s_trepetom/230",
+        "orientation": "portrait",
+        "dimensions": {
+          "width": 600,
+          "height": 800
+        },
+        "size_kb": 103.6,
+        "role": "decorative_photos",
+        "caption": "Весенний букет пионовидных роз: мягкость и домашний уют",
+        "description": "Рука нежно касается лепестков роз и эвкалипта."
+      },
+      {
+        "id": "deco_photo_neon_smoothie",
+        "filename": "post_306_2.jpg",
+        "relative_path": "photos/post_306_2.jpg",
+        "relativePath": "photos/post_306_2.jpg",
+        "url": "/photos/post_306_2.jpg",
+        "post_id": 306,
+        "postId": 306,
+        "post_url": "https://t.me/terapia_s_trepetom/306",
+        "postUrl": "https://t.me/terapia_s_trepetom/306",
+        "orientation": "portrait",
+        "dimensions": {
+          "width": 600,
+          "height": 800
+        },
+        "size_kb": 118.0,
+        "role": "decorative_photos",
+        "caption": "Тёплый жёлтый неон: «Смузи каждой музе!»",
+        "description": "Светящаяся неоновая надпись на фоне вечнозеленой листвы."
+      },
+      {
+        "id": "deco_photo_frankl_book",
+        "filename": "post_367_1.jpg",
+        "relative_path": "photos/post_367_1.jpg",
+        "relativePath": "photos/post_367_1.jpg",
+        "url": "/photos/post_367_1.jpg",
+        "post_id": 367,
+        "postId": 367,
+        "post_url": "https://t.me/terapia_s_trepetom/367",
+        "postUrl": "https://t.me/terapia_s_trepetom/367",
+        "orientation": "portrait",
+        "dimensions": {
+          "width": 601,
+          "height": 800
+        },
+        "size_kb": 86.3,
+        "role": "decorative_photos",
+        "caption": "Книга-опора Виктора Франкла «Сказать жизни Да!»",
+        "description": "Синяя обложка книги о поиске смысла на мягком шерстяном пледе."
+      },
+      {
+        "id": "deco_photo_alonzi_book",
+        "filename": "post_293_1.jpg",
+        "relative_path": "photos/post_293_1.jpg",
+        "relativePath": "photos/post_293_1.jpg",
+        "url": "/photos/post_293_1.jpg",
+        "post_id": 293,
+        "postId": 293,
+        "post_url": "https://t.me/terapia_s_trepetom/293",
+        "postUrl": "https://t.me/terapia_s_trepetom/293",
+        "orientation": "portrait",
+        "dimensions": {
+          "width": 718,
+          "height": 800
+        },
+        "size_kb": 78.6,
+        "role": "decorative_photos",
+        "caption": "Книга «Я больше не хочу всем нравиться» Марии Беатриче Алонци",
+        "description": "Яркая обложка книги о личных границах в кафе."
+      },
+      {
+        "id": "deco_photo_beattie_book",
+        "filename": "post_173_1.jpg",
+        "relative_path": "photos/post_173_1.jpg",
+        "relativePath": "photos/post_173_1.jpg",
+        "url": "/photos/post_173_1.jpg",
+        "post_id": 173,
+        "postId": 173,
+        "post_url": "https://t.me/terapia_s_trepetom/173",
+        "postUrl": "https://t.me/terapia_s_trepetom/173",
+        "orientation": "portrait",
+        "dimensions": {
+          "width": 608,
+          "height": 800
+        },
+        "size_kb": 97.6,
+        "role": "decorative_photos",
+        "caption": "Книга «Спасать или спасаться?» Мелоди Битти, кофе и растение",
+        "description": "Книга о преодолении созависимости на столике у окна."
+      },
+      {
+        "id": "deco_photo_poodle",
+        "filename": "post_179_1.jpg",
+        "relative_path": "photos/post_179_1.jpg",
+        "relativePath": "photos/post_179_1.jpg",
+        "url": "/photos/post_179_1.jpg",
+        "post_id": 179,
+        "postId": 179,
+        "post_url": "https://t.me/terapia_s_trepetom/179",
+        "postUrl": "https://t.me/terapia_s_trepetom/179",
+        "orientation": "portrait",
+        "dimensions": {
+          "width": 739,
+          "height": 800
+        },
+        "size_kb": 175.8,
+        "role": "decorative_photos",
+        "caption": "Кудрявый питомец у белого камина и новогодней ели",
+        "description": "Бежевый пудель сидит рядом с нарядной елкой."
+      },
+      {
+        "id": "deco_photo_yoga_studio",
+        "filename": "post_164_1.jpg",
+        "relative_path": "photos/post_164_1.jpg",
+        "relativePath": "photos/post_164_1.jpg",
+        "url": "/photos/post_164_1.jpg",
+        "post_id": 164,
+        "postId": 164,
+        "post_url": "https://t.me/terapia_s_trepetom/164",
+        "postUrl": "https://t.me/terapia_s_trepetom/164",
+        "orientation": "portrait",
+        "dimensions": {
+          "width": 600,
+          "height": 800
+        },
+        "size_kb": 127.6,
+        "role": "decorative_photos",
+        "caption": "Атмосферная студия йоги с кирпичной кладкой и огоньками",
+        "description": "Теплый интерьер с гирляндами и зелеными деревянными стульями."
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "hero_portrait_main",
+      "filename": "post_324_3.jpg",
+      "relative_path": "photos/post_324_3.jpg",
+      "relativePath": "photos/post_324_3.jpg",
+      "url": "/photos/post_324_3.jpg",
+      "post_id": 324,
+      "postId": 324,
+      "post_url": "https://t.me/terapia_s_trepetom/324",
+      "postUrl": "https://t.me/terapia_s_trepetom/324",
+      "orientation": "portrait",
+      "dimensions": {
+        "width": 599,
+        "height": 800
+      },
+      "size_kb": 141.8,
+      "role": "hero_portrait",
+      "caption": "Юлия Колесникова — психолог-консультант в КПТ и ACT",
+      "description": "Естественный солнечный портрет психолога с искренней улыбкой в очках на фоне зеленого газона."
+    },
+    {
+      "id": "hero_portrait_avatar",
+      "filename": "channel_avatar.jpg",
+      "relative_path": "photos/channel_avatar.jpg",
+      "relativePath": "photos/channel_avatar.jpg",
+      "url": "/photos/channel_avatar.jpg",
+      "post_id": null,
+      "postId": 0,
+      "post_url": "https://t.me/terapia_s_trepetom",
+      "postUrl": "https://t.me/terapia_s_trepetom",
+      "orientation": "square",
+      "dimensions": {
+        "width": 320,
+        "height": 320
+      },
+      "size_kb": 18.1,
+      "role": "hero_portrait",
+      "caption": "Официальный студийный аватар канала «Терапия с трепетом»",
+      "description": "Лаконичный портрет на светлом нейтральном фоне в светлом свитере."
+    },
+    {
+      "id": "about_portrait_terrace",
+      "filename": "post_306_1.jpg",
+      "relative_path": "photos/post_306_1.jpg",
+      "relativePath": "photos/post_306_1.jpg",
+      "url": "/photos/post_306_1.jpg",
+      "post_id": 306,
+      "postId": 306,
+      "post_url": "https://t.me/terapia_s_trepetom/306",
+      "postUrl": "https://t.me/terapia_s_trepetom/306",
+      "orientation": "portrait",
+      "dimensions": {
+        "width": 600,
+        "height": 800
+      },
+      "size_kb": 145.6,
+      "role": "about_portrait",
+      "caption": "Юлия на открытой террасе: бережная пауза и контакт с собой",
+      "description": "Юлия в белом платье/рубашке отдыхает на террасе среди цветущих олеандров."
+    },
+    {
+      "id": "about_portrait_train",
+      "filename": "post_274_1.jpg",
+      "relative_path": "photos/post_274_1.jpg",
+      "relativePath": "photos/post_274_1.jpg",
+      "url": "/photos/post_274_1.jpg",
+      "post_id": 274,
+      "postId": 274,
+      "post_url": "https://t.me/terapia_s_trepetom/274",
+      "postUrl": "https://t.me/terapia_s_trepetom/274",
+      "orientation": "landscape",
+      "dimensions": {
+        "width": 800,
+        "height": 600
+      },
+      "size_kb": 104.7,
+      "role": "about_portrait",
+      "caption": "Юлия в дороге: размышления о переменах и опоре на себя",
+      "description": "Портрет крупным планом в вагоне поезда, прямой спокойный взгляд в камеру."
+    },
+    {
+      "id": "note_photo_diary",
+      "filename": "post_174_1.jpg",
+      "relative_path": "photos/post_174_1.jpg",
+      "relativePath": "photos/post_174_1.jpg",
+      "url": "/photos/post_174_1.jpg",
+      "post_id": 174,
+      "postId": 174,
+      "post_url": "https://t.me/terapia_s_trepetom/174",
+      "postUrl": "https://t.me/terapia_s_trepetom/174",
+      "orientation": "landscape",
+      "dimensions": {
+        "width": 800,
+        "height": 695
+      },
+      "size_kb": 107.9,
+      "role": "notes_photos",
+      "caption": "Письменные практики: блокнот для саморефлексии, ручка и горящая свеча",
+      "description": "Уютный натюрморт с дневником и ароматической свечой Sweet & Frosted Pine."
+    },
+    {
+      "id": "note_photo_craft",
+      "filename": "post_368_3.jpg",
+      "relative_path": "photos/post_368_3.jpg",
+      "relativePath": "photos/post_368_3.jpg",
+      "url": "/photos/post_368_3.jpg",
+      "post_id": 368,
+      "postId": 368,
+      "post_url": "https://t.me/terapia_s_trepetom/368",
+      "postUrl": "https://t.me/terapia_s_trepetom/368",
+      "orientation": "portrait",
+      "dimensions": {
+        "width": 600,
+        "height": 800
+      },
+      "size_kb": 104.5,
+      "role": "notes_photos",
+      "caption": "Творческий мастер-класс: создание гипсовых форм своими руками",
+      "description": "Рабочий стол мастерской: весы, пигменты, гипсовые формы и процесс работы руками."
+    },
+    {
+      "id": "note_photo_cafe",
+      "filename": "post_360_2.jpg",
+      "relative_path": "photos/post_360_2.jpg",
+      "relativePath": "photos/post_360_2.jpg",
+      "url": "/photos/post_360_2.jpg",
+      "post_id": 360,
+      "postId": 360,
+      "post_url": "https://t.me/terapia_s_trepetom/360",
+      "postUrl": "https://t.me/terapia_s_trepetom/360",
+      "orientation": "portrait",
+      "dimensions": {
+        "width": 601,
+        "height": 800
+      },
+      "size_kb": 93.6,
+      "role": "notes_photos",
+      "caption": "Вечер пятницы в кофейне «Аленка» с тёплым светом hanging lamps",
+      "description": "Интерьер кофейни с зеркальными лампами и спокойной атмосферой замедления."
+    },
+    {
+      "id": "note_photo_coffee_cup",
+      "filename": "post_297_3.jpg",
+      "relative_path": "photos/post_297_3.jpg",
+      "relativePath": "photos/post_297_3.jpg",
+      "url": "/photos/post_297_3.jpg",
+      "post_id": 297,
+      "postId": 297,
+      "post_url": "https://t.me/terapia_s_trepetom/297",
+      "postUrl": "https://t.me/terapia_s_trepetom/297",
+      "orientation": "portrait",
+      "dimensions": {
+        "width": 600,
+        "height": 800
+      },
+      "size_kb": 99.0,
+      "role": "notes_photos",
+      "caption": "Стаканчик кофе с надписью: «У тебя всё будет хорошо!»",
+      "description": "Рука держит стаканчик с кофе и фото ребенка на солнечной улице с деревьями."
+    },
+    {
+      "id": "note_photo_study",
+      "filename": "post_348_5.jpg",
+      "relative_path": "photos/post_348_5.jpg",
+      "relativePath": "photos/post_348_5.jpg",
+      "url": "/photos/post_348_5.jpg",
+      "post_id": 348,
+      "postId": 348,
+      "post_url": "https://t.me/terapia_s_trepetom/348",
+      "postUrl": "https://t.me/terapia_s_trepetom/348",
+      "orientation": "portrait",
+      "dimensions": {
+        "width": 600,
+        "height": 800
+      },
+      "size_kb": 134.8,
+      "role": "notes_photos",
+      "caption": "Рабочий процесс: MacBook, исследования и написание книги",
+      "description": "Учебный стол с конспектами, ноутбуком, кружкой и дневниковыми записями."
+    },
+    {
+      "id": "note_photo_piano",
+      "filename": "post_235_1.jpg",
+      "relative_path": "photos/post_235_1.jpg",
+      "relativePath": "photos/post_235_1.jpg",
+      "url": "/photos/post_235_1.jpg",
+      "post_id": 235,
+      "postId": 235,
+      "post_url": "https://t.me/terapia_s_trepetom/235",
+      "postUrl": "https://t.me/terapia_s_trepetom/235",
+      "orientation": "portrait",
+      "dimensions": {
+        "width": 600,
+        "height": 800
+      },
+      "size_kb": 118.8,
+      "role": "notes_photos",
+      "caption": "Уголок замедления: синтезатор Casiotone, кофе и белые цветы",
+      "description": "Клавишный инструмент, розовая кофемашина и хризантемы у залитого солнцем окна."
+    },
+    {
+      "id": "note_photo_train_book",
+      "filename": "post_274_4.jpg",
+      "relative_path": "photos/post_274_4.jpg",
+      "relativePath": "photos/post_274_4.jpg",
+      "url": "/photos/post_274_4.jpg",
+      "post_id": 274,
+      "postId": 274,
+      "post_url": "https://t.me/terapia_s_trepetom/274",
+      "postUrl": "https://t.me/terapia_s_trepetom/274",
+      "orientation": "portrait",
+      "dimensions": {
+        "width": 600,
+        "height": 800
+      },
+      "size_kb": 88.1,
+      "role": "notes_photos",
+      "caption": "Чтение книги у окна поезда по дороге в родной город",
+      "description": "Раскрытая книга в руках у окна поезда с видом на железную дорогу."
+    },
+    {
+      "id": "note_photo_wheel",
+      "filename": "post_280_1.jpg",
+      "relative_path": "photos/post_280_1.jpg",
+      "relativePath": "photos/post_280_1.jpg",
+      "url": "/photos/post_280_1.jpg",
+      "post_id": 280,
+      "postId": 280,
+      "post_url": "https://t.me/terapia_s_trepetom/280",
+      "postUrl": "https://t.me/terapia_s_trepetom/280",
+      "orientation": "portrait",
+      "dimensions": {
+        "width": 600,
+        "height": 800
+      },
+      "size_kb": 118.5,
+      "role": "notes_photos",
+      "caption": "Колесо обозрения: радость для внутреннего ребёнка",
+      "description": "Белое колесо обозрения в парке отдыха на фоне высокого летнего неба."
+    },
+    {
+      "id": "deco_photo_flowers_wall",
+      "filename": "post_261_1.jpg",
+      "relative_path": "photos/post_261_1.jpg",
+      "relativePath": "photos/post_261_1.jpg",
+      "url": "/photos/post_261_1.jpg",
+      "post_id": 261,
+      "postId": 261,
+      "post_url": "https://t.me/terapia_s_trepetom/261",
+      "postUrl": "https://t.me/terapia_s_trepetom/261",
+      "orientation": "portrait",
+      "dimensions": {
+        "width": 600,
+        "height": 800
+      },
+      "size_kb": 150.7,
+      "role": "decorative_photos",
+      "caption": "Нежные розовые цветы с записками «i miss you» и «i love you»",
+      "description": "Цветы закреплены на белой фактурной стене малярным скотчем."
+    },
+    {
+      "id": "deco_photo_spring_bouquet",
+      "filename": "post_230_1.jpg",
+      "relative_path": "photos/post_230_1.jpg",
+      "relativePath": "photos/post_230_1.jpg",
+      "url": "/photos/post_230_1.jpg",
+      "post_id": 230,
+      "postId": 230,
+      "post_url": "https://t.me/terapia_s_trepetom/230",
+      "postUrl": "https://t.me/terapia_s_trepetom/230",
+      "orientation": "portrait",
+      "dimensions": {
+        "width": 600,
+        "height": 800
+      },
+      "size_kb": 103.6,
+      "role": "decorative_photos",
+      "caption": "Весенний букет пионовидных роз: мягкость и домашний уют",
+      "description": "Рука нежно касается лепестков роз и эвкалипта."
+    },
+    {
+      "id": "deco_photo_neon_smoothie",
+      "filename": "post_306_2.jpg",
+      "relative_path": "photos/post_306_2.jpg",
+      "relativePath": "photos/post_306_2.jpg",
+      "url": "/photos/post_306_2.jpg",
+      "post_id": 306,
+      "postId": 306,
+      "post_url": "https://t.me/terapia_s_trepetom/306",
+      "postUrl": "https://t.me/terapia_s_trepetom/306",
+      "orientation": "portrait",
+      "dimensions": {
+        "width": 600,
+        "height": 800
+      },
+      "size_kb": 118.0,
+      "role": "decorative_photos",
+      "caption": "Тёплый жёлтый неон: «Смузи каждой музе!»",
+      "description": "Светящаяся неоновая надпись на фоне вечнозеленой листвы."
+    },
+    {
+      "id": "deco_photo_frankl_book",
+      "filename": "post_367_1.jpg",
+      "relative_path": "photos/post_367_1.jpg",
+      "relativePath": "photos/post_367_1.jpg",
+      "url": "/photos/post_367_1.jpg",
+      "post_id": 367,
+      "postId": 367,
+      "post_url": "https://t.me/terapia_s_trepetom/367",
+      "postUrl": "https://t.me/terapia_s_trepetom/367",
+      "orientation": "portrait",
+      "dimensions": {
+        "width": 601,
+        "height": 800
+      },
+      "size_kb": 86.3,
+      "role": "decorative_photos",
+      "caption": "Книга-опора Виктора Франкла «Сказать жизни Да!»",
+      "description": "Синяя обложка книги о поиске смысла на мягком шерстяном пледе."
+    },
+    {
+      "id": "deco_photo_alonzi_book",
+      "filename": "post_293_1.jpg",
+      "relative_path": "photos/post_293_1.jpg",
+      "relativePath": "photos/post_293_1.jpg",
+      "url": "/photos/post_293_1.jpg",
+      "post_id": 293,
+      "postId": 293,
+      "post_url": "https://t.me/terapia_s_trepetom/293",
+      "postUrl": "https://t.me/terapia_s_trepetom/293",
+      "orientation": "portrait",
+      "dimensions": {
+        "width": 718,
+        "height": 800
+      },
+      "size_kb": 78.6,
+      "role": "decorative_photos",
+      "caption": "Книга «Я больше не хочу всем нравиться» Марии Беатриче Алонци",
+      "description": "Яркая обложка книги о личных границах в кафе."
+    },
+    {
+      "id": "deco_photo_beattie_book",
+      "filename": "post_173_1.jpg",
+      "relative_path": "photos/post_173_1.jpg",
+      "relativePath": "photos/post_173_1.jpg",
+      "url": "/photos/post_173_1.jpg",
+      "post_id": 173,
+      "postId": 173,
+      "post_url": "https://t.me/terapia_s_trepetom/173",
+      "postUrl": "https://t.me/terapia_s_trepetom/173",
+      "orientation": "portrait",
+      "dimensions": {
+        "width": 608,
+        "height": 800
+      },
+      "size_kb": 97.6,
+      "role": "decorative_photos",
+      "caption": "Книга «Спасать или спасаться?» Мелоди Битти, кофе и растение",
+      "description": "Книга о преодолении созависимости на столике у окна."
+    },
+    {
+      "id": "deco_photo_poodle",
+      "filename": "post_179_1.jpg",
+      "relative_path": "photos/post_179_1.jpg",
+      "relativePath": "photos/post_179_1.jpg",
+      "url": "/photos/post_179_1.jpg",
+      "post_id": 179,
+      "postId": 179,
+      "post_url": "https://t.me/terapia_s_trepetom/179",
+      "postUrl": "https://t.me/terapia_s_trepetom/179",
+      "orientation": "portrait",
+      "dimensions": {
+        "width": 739,
+        "height": 800
+      },
+      "size_kb": 175.8,
+      "role": "decorative_photos",
+      "caption": "Кудрявый питомец у белого камина и новогодней ели",
+      "description": "Бежевый пудель сидит рядом с нарядной елкой."
+    },
+    {
+      "id": "deco_photo_yoga_studio",
+      "filename": "post_164_1.jpg",
+      "relative_path": "photos/post_164_1.jpg",
+      "relativePath": "photos/post_164_1.jpg",
+      "url": "/photos/post_164_1.jpg",
+      "post_id": 164,
+      "postId": 164,
+      "post_url": "https://t.me/terapia_s_trepetom/164",
+      "postUrl": "https://t.me/terapia_s_trepetom/164",
+      "orientation": "portrait",
+      "dimensions": {
+        "width": 600,
+        "height": 800
+      },
+      "size_kb": 127.6,
+      "role": "decorative_photos",
+      "caption": "Атмосферная студия йоги с кирпичной кладкой и огоньками",
+      "description": "Теплый интерьер с гирляндами и зелеными деревянными стульями."
+    }
+  ]
+}

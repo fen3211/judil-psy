@@ -1,0 +1,80 @@
+fields: (list)
+  items: (list)
+    options: (dict)
+      design: (dict)
+        title: {'font': 7}
+    options: (dict)
+      title: 'ЗАПИСАТЬСЯ НА КОНСУЛЬТАЦИЮ '
+    addon_target: (list)
+  section: (dict)
+    bg: (dict)
+    blocks: (list)
+  items: (list)
+    options: (dict)
+      text: 'Помогаю разобраться в себе, снизить тревогу и выстроить жизнь, в которой есть опора на себя'
+  items: (list)
+    options: (dict)
+      text: 'С ЧЕМ Я РАБОТАЮ'
+    options: (dict)
+      text: '— Постоянная тревога и переутомление\n— Сложности в отношениях\n— Низкая самооценка, неуверенность\n— Чувство, что «живу не свою жизнь», поиск себя\n
+    options: (dict)
+      layout: (dict)
+        items: (list)
+          styles: (dict)
+          data: (dict)
+            p: (dict)
+          data: (dict)
+            text: '<br>'
+            font: (dict)
+          data: (dict)
+            text: '<br><br>\u200c*если здесь нет нужного варианта, можешь написать о нем.<br>\u200c&nbsp;Я сообщу, смогу ли тебе помочь'
+            font: (dict)
+    addon_target: (list)
+    options: (dict)
+      text: 'ЧТО ТЫ ПОЛУЧИШЬ'
+    options: (dict)
+      text: '— Понимание, что с тобой происходит\n— Конкретные инструменты, как справляться\n— Поддержку без осуждения\n— Внутреннюю устойчивость вместо хаоса'
+    options: (dict)
+      text: 'ФОРМАТ РАБОТЫ'
+    options: (dict)
+      text: 'Консультации проходят онлайн через защищённую платформу (Яндекс Телемост)\n\u200cв безопасной и поддерживающей атмосфере'
+    options: (dict)
+      fields: (list)
+        text: 'Одна сессия длится 55 минут. Оптимальная частота встреч определяется индивидуально, но чаще всего один раз в неделю.'
+        thumb: (dict)
+        title: '                                         Длительность'
+        text: 'Перенос сессии возможен не позднее, чем за 24 часа до начала. При более поздней отмене или неявке сессия считается состоявшейся и подлежит оплате в п
+        thumb: (dict)
+        title: '                                       Перенос и отмена'
+        text: 'Вся информация, озвученная на встречах, является конфиденциальной. Исключения составляют случаи прямой угрозы жизни и здоровью клиента или третьих ли
+        thumb: (dict)
+        title: '                                    Конфиденциальность'
+      styles: (dict)
+    options: (list)
+    options: (dict)
+      design: (dict)
+        price: (dict)
+      fields: (list)
+        title: 'СТОИМОСТЬ КОНСУЛЬТАЦИИ'
+    options: (list)
+    options: (dict)
+      text: 'НЕМНОГО ОБО МНЕ'
+    options: (dict)
+      text: 'В своей практической работе я использую различные техники, которые подбираю индивидуально для эффективного решения запроса'
+    options: (dict)
+      text: 'ОБРАЗОВАНИЕ'
+    options: (dict)
+      text: '2025&nbsp;—&nbsp;Психолог-консультант с дополнительной специализацией в области когнитивно-поведенческой терапии (1540 часов) — АНО ДПО «НАДПО»\n\u20
+    options: (dict)
+      text: 'ГДЕ МЕНЯ НАЙТИ'
+    options: (dict)
+      socials_style: (dict)
+      items: (list)
+        link: (dict)
+          a: (dict)
+        link: (dict)
+          a: (dict)
+    addon_target: (list)
+    slot: (dict)
+    stat: (dict)
+options: (list)

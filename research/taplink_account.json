@@ -1,0 +1,170 @@
+{
+  "account_id": 12859156,
+  "language_id": 1,
+  "language_code": "ru",
+  "language_code_account": "ru",
+  "main_page_id": 18221714,
+  "profile_id": 14849402,
+  "is_hidelink": false,
+  "is_plus": 0,
+  "is_trial": 0,
+  "is_full_trial": 0,
+  "tariff_current": "basic",
+  "utc_timezone": 3,
+  "currency_id": 1,
+  "plan_until": 1790380800,
+  "nickname": "judil.psy",
+  "has_nickname": 1,
+  "profile_link": "https://taplink.cc/judil.psy",
+  "theme": {
+    "heading": {
+      "font": 10,
+      "color": "#143211",
+      "weight": 2
+    },
+    "screen": {
+      "font": 13,
+      "color": "#143211"
+    },
+    "avatar": {
+      "title": {
+        "font": 12,
+        "color": "#5d755d"
+      },
+      "bio": {
+        "font": 12,
+        "color": "#5d755d"
+      }
+    },
+    "link": {
+      "bg": "#5d755d",
+      "transform": "u",
+      "weight": 2,
+      "font": 13,
+      "subtitle": {
+        "font": 13
+      },
+      "shadow": {
+        "color": "#2b412c"
+      },
+      "radius": 10,
+      "hover": {
+        "transparent": {
+          "on": true
+        }
+      }
+    },
+    "bg": {
+      "color": "#fffaf4"
+    },
+    "block": {
+      "radius": 3,
+      "pictures": {
+        "title": "#5d755d",
+        "text": "#8a9988",
+        "button_text": "#ac4302",
+        "nav": "#5d755d"
+      }
+    },
+    "sections": {
+      "_": [],
+      "p": {
+        "text": {
+          "color": "#fffaf4"
+        },
+        "heading": {
+          "color": "#fffaf4"
+        },
+        "link": {
+          "color": "#143211",
+          "bg": "#fffaf4",
+          "shadow": {
+            "color": "#c2bdb7"
+          },
+          "weight": 1,
+          "subtitle": {
+            "color": "#143211"
+          },
+          "border": {
+            "color": "#fffaf4"
+          }
+        },
+        "indent": {
+          "radius": 0
+        },
+        "bg": {
+          "color": "#5d755d"
+        }
+      },
+      "s": {
+        "link": {
+          "shadow": {
+            "color": "#c2bdb7"
+          },
+          "weight": 1
+        },
+        "bg": {
+          "color": "#ebdece"
+        }
+      }
+    }
+  },
+  "menu": null,
+  "menu_items": null,
+  "addons": {
+    "codes": [
+      {
+        "cb": "taplinkMetricsInit",
+        "cookie": "analytics"
+      }
+    ]
+  },
+  "locales": {
+    "pages": "ru"
+  },
+  "avatar": {
+    "path": "6/6/a/a/",
+    "title": "ЮЛИЯ КОЛЕСНИКОВА",
+    "bio": "психолог",
+    "a": "150:jpg?2",
+    "is_hide_text": 0
+  },
+  "currency": {
+    "title": "₽",
+    "code": "RUB",
+    "format": "%p %c",
+    "precision": 2
+  },
+  "products": [],
+  "username": "judil.psy",
+  "current_page_id": 18221714,
+  "widgets": [],
+  "custom_domain": false,
+  "domain": "taplink.ru",
+  "client": {
+    "country": "de",
+    "timestamp": 1793967351
+  },
+  "locale": {
+    "formats": {
+      "datetime": "d.m.Y, H:i",
+      "date": "d.m.Y",
+      "time": "H:i",
+      "date_full": "d M Y"
+    },
+    "current": "ru",
+    "direction": "ltr"
+  },
+  "number": {
+    "decimal": ".",
+    "precision": 2,
+    "thousands": " "
+  },
+  "weight": {
+    "decimal": ".",
+    "thousands": " ",
+    "precision": 3
+  },
+  "ts": "85d8bbdd",
+  "html": ""
+}
